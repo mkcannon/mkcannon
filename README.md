@@ -1,5 +1,4 @@
 <h2>Welcome to my GitHub profile 🙋‍♂️</h2>
----
 
 Hello there! My name is Mike. I am a driven Full-Stack Developer working with core JavaScript technologies.
 
